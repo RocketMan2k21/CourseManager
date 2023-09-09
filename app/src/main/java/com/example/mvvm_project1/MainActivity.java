@@ -28,6 +28,8 @@ import com.example.mvvm_project1.model.viewModel.MainActivityViewModel;
 import java.util.ArrayList;
 import java.util.List;
 
+//Roman Duda
+
 public class MainActivity extends AppCompatActivity {
 
     //Request codes
