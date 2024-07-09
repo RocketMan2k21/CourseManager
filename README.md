@@ -16,11 +16,8 @@ Tools:
     * Intents
     * Adapters
 
-<img src="https://ibb.co/CnbbFCY" alt="drw" width="300"/>
-
-<img src="https://ibb.co/K0Jxk8d" alt="drw" width="300"/>
-
-<img src="https://ibb.co/yYwsf1s" alt="drw" width="300"/>
-
+<a href="https://ibb.co/CnbbFCY"><img src="https://i.ibb.co/19rrxyP/2024-07-10-002442.png" alt="2024-07-10-002442" border="0"></a>
+<a href="https://ibb.co/K0Jxk8d"><img src="https://i.ibb.co/bWk5ZGT/2024-07-10-002406.png" alt="2024-07-10-002406" border="0"></a>
+<a href="https://ibb.co/yYwsf1s"><img src="https://i.ibb.co/X3hJ2gJ/2024-07-10-002305.png" alt="2024-07-10-002305" border="0"></a>
   
   
