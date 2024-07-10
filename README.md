@@ -10,11 +10,12 @@ This app should help you:
   * Deleting courses
 
 Tools:
-
-    * Room database
-    * Data Binding
-    * Intents
-    * Adapters
+   
+   * MVVM
+   * Room database
+   * Data Binding
+   * Intents
+   * Adapters
 
 <a href="https://ibb.co/CnbbFCY"><img src="https://i.ibb.co/19rrxyP/2024-07-10-002442.png" alt="2024-07-10-002442" border="0"></a>
 <a href="https://ibb.co/K0Jxk8d"><img src="https://i.ibb.co/bWk5ZGT/2024-07-10-002406.png" alt="2024-07-10-002406" border="0"></a>
